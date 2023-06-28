@@ -1,0 +1,5 @@
+﻿  CMyWnd.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\猫抓老鼠\猫抓老鼠\CMyWnd.cpp(207,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\猫抓老鼠\猫抓老鼠\CMyWnd.cpp(220,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  猫抓老鼠.vcxproj -> D:\Cherchez\Microsoft Visual Studio\Documents\Repos\猫抓老鼠\Debug\猫抓老鼠.exe
